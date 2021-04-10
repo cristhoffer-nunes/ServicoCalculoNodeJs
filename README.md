@@ -9,4 +9,6 @@ Criação de uma calculadora utilizando requição GET
 
 Para baixar esse repositório no seu computador, rode o código abaixo ou clicke em [download](https://github.com/cristhoffer-nunes/ServicoCalculoNodeJs/archive/main.zip).
 
-> git clone https://github.com/cristhoffer-nunes/ServicoCalculoNodeJs.git
+```bash
+$ git clone https://github.com/kurzapp/kurzweb/.git
+```
